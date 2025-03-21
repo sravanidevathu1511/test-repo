@@ -1,3 +1,3 @@
-class Object1 {
+class Object{
 
 }
